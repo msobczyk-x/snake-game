@@ -5,7 +5,7 @@ Language: React/Typescript
 Simple snake game made with React and Typescript.
 ![Main screen](https://raw.githubusercontent.com/msobczyk-x/snake-game/main/assets/titlescreen.png "Main screen")
 
-![Game](https://raw.githubusercontent.com/msobczyk-x/snake-game/main/assets/game.png"Game")
+![Game](https://raw.githubusercontent.com/msobczyk-x/snake-game/main/assets/game.png "Game")
 ## How to play
 Use the arrow keys to move the snake around the board. The goal is to eat the food and grow the snake. If the snake hits the wall or itself, the game is over.
 
