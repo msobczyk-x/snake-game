@@ -1,7 +1,7 @@
 # Snake Game
 Language: React/Typescript 
 
-# hosted on github pages ![Play](https://msobczyk-x.github.io/snake-game/build)
+# hosted on github pages [Play](https://msobczyk-x.github.io/snake-game/build)
 
 ## Description
 Simple snake game made with React and Typescript.
